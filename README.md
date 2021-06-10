@@ -1,4 +1,5 @@
 # STEVE
+The one and only Syntax Tree parsEr anVd buildEr.
 Generate 3D models of abstract syntax trees. Perhaps make them into a hat.
 
 ## Files in this Repo:
