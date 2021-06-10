@@ -1,0 +1,12 @@
+Module
+  FunctionDef
+    arguments
+    Expr
+      Call
+        Name
+          Load
+        Constant
+  Expr
+    Call
+      Name
+        Load
